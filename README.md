@@ -27,7 +27,7 @@ https://jsonplaceholder.typicode.com/
 }
 
 
- open webpage or make an http call to it....(notice it's FakeDB/db ..... NOT FakeDB/db.json
+ open webpage or make an http call to it....( notice it's FakeDB/db ..... NOT FakeDB/db.json )
  
  https://my-json-server.typicode.com/Xiija/FakeDB/db
  
