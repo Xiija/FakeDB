@@ -10,7 +10,7 @@ https://www.cypress.io/
 https://jsonplaceholder.typicode.com/
 
 
- For jsonplaceholder....
+ For json server at typicode....
  
  create a repo on github ... mine is called FakeDB.
  
