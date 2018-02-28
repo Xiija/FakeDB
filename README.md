@@ -7,4 +7,6 @@ https://my-json-server.typicode.com/
 
 https://www.cypress.io/
 
-https://my-json-server.typicode.com/
+https://jsonplaceholder.typicode.com/
+
+
