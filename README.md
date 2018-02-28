@@ -32,5 +32,5 @@ https://jsonplaceholder.typicode.com/
  https://my-json-server.typicode.com/Xiija/FakeDB/db
  
  
- https://my-json-server.typicode.com/*your-username*/*your-repo*/*file name without extension*
+ https://my-json-server.typicode.com/*your-username*/*your-repo*/*file-name-without-extension*
 
