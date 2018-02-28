@@ -11,9 +11,13 @@ https://jsonplaceholder.typicode.com/
 
 
  For jsonplaceholder....
+ 
  create a repo on github ... mine is called FakeDB.
+ 
  create a file in that repo... mine is db.json
+ 
  put something in your json file....
+ 
  
  {
   "userId": 1,
@@ -26,4 +30,7 @@ https://jsonplaceholder.typicode.com/
  open webpage or make an http call to it....
  
  https://my-json-server.typicode.com/Xiija/FakeDB/db
+ 
+ 
+ <code>https://my-json-server.typicode.com/<your-username>/<your-repo></code>
 
