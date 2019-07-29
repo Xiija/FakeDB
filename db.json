@@ -16,12 +16,12 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "My body is ONE!",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "some comment on my BODY2",
       "postId": 1
     }
   ],
