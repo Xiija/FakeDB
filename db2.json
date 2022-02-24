@@ -16,16 +16,15 @@
   "comments": [
     {
       "id": 1,
-      "body": "The body is ONE!",
-      "postId": 1
+      "body": "The body is ONE!",     
     },
     {
       "id": 2,
       "body": "Plz comment on my BODY 2",
-      "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+     "id": 1,
+     "name": "Yo Mama"
   }
 }
